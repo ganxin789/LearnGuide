@@ -1,2 +1,2 @@
 # LearnGuide
-how to use github
+this is number 2
